@@ -5,3 +5,10 @@ D:\CODE\C#\Unilever\Sale_EmployeeBLL\bin\Release\UnileverObject.pdb
 D:\CODE\C#\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.csprojResolveAssemblyReference.cache
 D:\CODE\C#\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.dll
 D:\CODE\C#\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.pdb
+D:\da\Unilever\Sale_EmployeeBLL\bin\Release\Sale_EmployeeBLL.dll
+D:\da\Unilever\Sale_EmployeeBLL\bin\Release\Sale_EmployeeBLL.pdb
+D:\da\Unilever\Sale_EmployeeBLL\bin\Release\UnileverObject.dll
+D:\da\Unilever\Sale_EmployeeBLL\bin\Release\UnileverObject.pdb
+D:\da\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.csprojResolveAssemblyReference.cache
+D:\da\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.dll
+D:\da\Unilever\Sale_EmployeeBLL\obj\Release\Sale_EmployeeBLL.pdb

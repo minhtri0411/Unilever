@@ -8,3 +8,12 @@ D:\CODE\C#\Unilever\UnileverDAL\bin\Release\EntityFramework.SqlServer.xml
 D:\CODE\C#\Unilever\UnileverDAL\obj\Release\UnileverDAL.csprojResolveAssemblyReference.cache
 D:\CODE\C#\Unilever\UnileverDAL\obj\Release\UnileverDAL.dll
 D:\CODE\C#\Unilever\UnileverDAL\obj\Release\UnileverDAL.pdb
+D:\da\Unilever\UnileverDAL\bin\Release\UnileverDAL.dll.config
+D:\da\Unilever\UnileverDAL\bin\Release\UnileverDAL.dll
+D:\da\Unilever\UnileverDAL\bin\Release\UnileverDAL.pdb
+D:\da\Unilever\UnileverDAL\bin\Release\EntityFramework.dll
+D:\da\Unilever\UnileverDAL\bin\Release\EntityFramework.SqlServer.dll
+D:\da\Unilever\UnileverDAL\bin\Release\EntityFramework.xml
+D:\da\Unilever\UnileverDAL\bin\Release\EntityFramework.SqlServer.xml
+D:\da\Unilever\UnileverDAL\obj\Release\UnileverDAL.dll
+D:\da\Unilever\UnileverDAL\obj\Release\UnileverDAL.pdb

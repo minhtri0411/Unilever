@@ -12,3 +12,17 @@ D:\CODE\C#\Unilever\UnileverBLL\bin\Release\EntityFramework.SqlServer.xml
 D:\CODE\C#\Unilever\UnileverBLL\obj\Release\UnileverBLL.csprojResolveAssemblyReference.cache
 D:\CODE\C#\Unilever\UnileverBLL\obj\Release\UnileverBLL.dll
 D:\CODE\C#\Unilever\UnileverBLL\obj\Release\UnileverBLL.pdb
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverBLL.dll.config
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverBLL.dll
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverBLL.pdb
+D:\da\Unilever\UnileverBLL\bin\Release\EntityFramework.dll
+D:\da\Unilever\UnileverBLL\bin\Release\EntityFramework.SqlServer.dll
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverDAL.dll
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverObject.dll
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverDAL.pdb
+D:\da\Unilever\UnileverBLL\bin\Release\UnileverObject.pdb
+D:\da\Unilever\UnileverBLL\bin\Release\EntityFramework.xml
+D:\da\Unilever\UnileverBLL\bin\Release\EntityFramework.SqlServer.xml
+D:\da\Unilever\UnileverBLL\obj\Release\UnileverBLL.csprojResolveAssemblyReference.cache
+D:\da\Unilever\UnileverBLL\obj\Release\UnileverBLL.dll
+D:\da\Unilever\UnileverBLL\obj\Release\UnileverBLL.pdb
